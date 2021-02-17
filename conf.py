@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E commerce project'
-copyright = '2021, Harideep'
-author = 'Harideep'
+project = 'E commerce project '
+copyright = '2021, ramesh'
+author = 'ramesh'
 
 # The full version, including alpha/beta/rc tags
-release = '1'
+release = '2'
 
 
 # -- General configuration ---------------------------------------------------
